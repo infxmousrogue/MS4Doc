@@ -12,6 +12,4 @@ function autUser() {
         alert("incorrect user and password!")
 
     }
-
-
 }
