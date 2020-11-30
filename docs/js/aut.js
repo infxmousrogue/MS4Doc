@@ -7,11 +7,10 @@ function autUser() {
 
     if (b == "mrama" && a == "TestUser123") {
         window.location.href = "landingPage.html";
-        alert(a)
+
     } else {
-        // alert("incorrect user and password!")
-        alert(a)
-        alert(b)
+        alert("incorrect user and password!")
+
     }
 
 
